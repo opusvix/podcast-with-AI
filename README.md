@@ -4,9 +4,10 @@
 
 ### Desafio de Projeto "Criando um Podcast com IAs Generativas".
 
-Chegou a hora de pôr as ferramentas de IA à prova, vamos construir um podcast utilizando ferramentas de IA para isso, vamos utilizar o ChatGPT para criar um título atrativo e um roteiro magnético para o nosso podcast, vamos extrair o máximo de poder do Stable Diffusion para gerar uma capa personalizada e ainda utilizar o ElevenLabs para gerar um conteúdo de voz mais humanizado.
+Chegou a hora de pôr as ferramentas de IA à prova, vamos construir um podcast utilizando ferramentas de IA para isso. 
+Vamos utilizar o ChatGPT para criar um título atrativo e um roteiro magnético para o nosso podcast, vamos extrair o máximo de poder do Stable Diffusion para gerar uma capa personalizada e ainda utilizar o ElevenLabs para gerar um conteúdo de voz mais humanizado.
 
-Nas aulas do curso o assunto do ebook foi sobre CSS com temática de Star Wars. Aqui troquei o assunto principal para Análise de Dados com Power Query e a linguagem M, mantendo a temática.
+Nas aulas do curso o assunto do ebook foi sobre front end com trocadilhos nerds. Aqui troquei o assunto principal para Spark, mantendo a temática.
 
 ## :abacus: Tecnologias utilizadas nesse projeto:
 
