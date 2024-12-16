@@ -17,6 +17,15 @@
     alt="🔴 LIVE CODE">
 </a>
 </p>
+<p align="center">
+    preview do podcast
+    <audio controls>
+      <source src="caminho/para/o/audio.mp3" type="audio/mpeg">
+      Seu navegador não suporta áudio embutido.
+    </audio>
+
+</p>
+
 
 # Bootcamp CAIXA - IA Generativa com Microsoft Pilot da [DIO](https://dio.me)
 
