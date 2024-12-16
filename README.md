@@ -42,20 +42,6 @@ Nas aulas do curso o assunto do podcast foi sobre front end com trocadilhos nerd
 
 ## :atom: Prompts:
 
-ChatGPT：
-
-|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em Spark e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de Spark feito por nerds, e que tenha algum trocadilho nerd no nome. O podcast vai falar sobre dicas e novidades sobre o mundo do Spark e o que está acontecendo no mercado. {REGRAS} - O nome deve ser enxuto, um nome e um subtítulo. - O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Harry Potter, Star Wars ou Senhor dos Anéis. - O nome deve conter alguma palavra forte que remeta ao Spark. {REGRAS NEGATIVAS} - Não quero que o título contenha palavras em inglês                                                        
-| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em Spark cujo o nome é "A Centelha dos Nerds - Desvendando o universo do Spark com paixão e inteligência" e tem foco em Engenharia de Dados, com o público alvo de iniciantes em dados. o formato do roteiro deve ser: [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO] {REGRAS} - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Spark - no bloco [CURIOSIDADE 2] sobre uma ferramenta para engenharia de dados - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Maurício e esse foi o Centelha dos Nerds dessa semana'. - use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Maurício - O podcast deve ser curto {REGRAS NEGATIVAS} - Não use muitos termos técnicos - Não ultrapasse 5 minutos de duração |
-
-
-Stable Diffusion：
-
-|  Ação  | Prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| imagem | Create an image of a stormtrooper-type robot, with headphones and a microphone, sitting in front of a laptop on a table in a library. |
-
 ## ✨ Como foi feito?
 
 - Roteiro gerado via ChatGPT
@@ -69,6 +55,21 @@ Stable Diffusion：
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
+## 🧠 Prompts
+
+ChatGPT：
+
+|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em Spark e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de Spark feito por nerds, e que tenha algum trocadilho nerd no nome. O podcast vai falar sobre dicas e novidades sobre o mundo do Spark e o que está acontecendo no mercado. {REGRAS} - O nome deve ser enxuto, um nome e um subtítulo. - O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Harry Potter, Star Wars ou Senhor dos Anéis. - O nome deve conter alguma palavra forte que remeta ao Spark. {REGRAS NEGATIVAS} - Não quero que o título contenha palavras em inglês                                                        
+| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em Spark cujo o nome é "A Centelha dos Nerds - Desvendando o universo do Spark com paixão e inteligência" e tem foco em Engenharia de Dados, com o público alvo de iniciantes em dados. o formato do roteiro deve ser: [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO] {REGRAS} - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Spark - no bloco [CURIOSIDADE 2] sobre uma ferramenta para engenharia de dados - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Maurício e esse foi o Centelha dos Nerds dessa semana'. - use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Maurício - O podcast deve ser curto {REGRAS NEGATIVAS} - Não use muitos termos técnicos - Não ultrapasse 5 minutos de duração |
+
+
+Stable Diffusion：
+
+|  Ação  | Prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| imagem | Create an image of a stormtrooper-type robot, with headphones and a microphone, sitting in front of a laptop on a table in a library. |
 
 ## 🛠️ Instruções de execução
 
