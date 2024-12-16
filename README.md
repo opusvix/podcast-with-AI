@@ -18,9 +18,8 @@
 </a>
 </p>
 <p align="center">
-    preview do podcast
-    <audio controls>
-      <source src="caminho/para/o/audio.mp3" type="audio/mpeg">
+      <audio controls>
+      <source src=".output/podcast-editado.mp3" type="audio/mpeg">
       Seu navegador não suporta áudio embutido.
     </audio>
 
