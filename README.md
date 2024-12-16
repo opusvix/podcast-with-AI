@@ -40,8 +40,6 @@ Nas aulas do curso o assunto do podcast foi sobre front end com trocadilhos nerd
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
-## :atom: Prompts:
-
 ## ✨ Como foi feito?
 
 - Roteiro gerado via ChatGPT
