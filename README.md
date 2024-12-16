@@ -18,11 +18,6 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-
 
 # Bootcamp CAIXA - IA Generativa com Microsoft Pilot da [DIO](https://dio.me)
 
